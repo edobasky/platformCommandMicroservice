@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\CommandsService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\webapi_microserv\\commandsservice\\commandsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\webapi_microserv\\commandsservice\\commandsservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\CommandsService\\CommandsService\\Program.cs",
+              "RelativeDocumentMoniker": "CommandsService\\Program.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\CommandsService\\CommandsService\\Program.cs",
+              "RelativeToolTip": "CommandsService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T21:53:06.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatformsController.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\CommandsService\\CommandsService\\Controllers\\PlatformsController.cs",
+              "RelativeDocumentMoniker": "CommandsService\\Controllers\\PlatformsController.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\CommandsService\\CommandsService\\Controllers\\PlatformsController.cs",
+              "RelativeToolTip": "CommandsService\\Controllers\\PlatformsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:16:15.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
