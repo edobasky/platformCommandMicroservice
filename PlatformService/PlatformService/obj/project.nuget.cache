@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jmFtYcO1+OI=",
+  "dgSpecHash": "/EtrJdSqJio=",
   "success": true,
-  "projectFilePath": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\PlatformService\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

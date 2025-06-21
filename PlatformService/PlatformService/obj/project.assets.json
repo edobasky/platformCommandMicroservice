@@ -1155,11 +1155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\PlatformService\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\PlatformService\\PlatformService\\PlatformService.csproj",
+      "projectPath": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\PlatformService.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\PlatformService\\PlatformService\\obj\\",
+      "outputPath": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
