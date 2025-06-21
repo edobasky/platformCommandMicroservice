@@ -50,8 +50,7 @@
               "RelativeToolTip": "PlatformService\\appsettings.Production.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-14T15:36:17.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T15:36:17.22Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "PlatformService\\Controllers\\PlatformsController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAYwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:49:16.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T12:49:16.626Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "PlatformService\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:46:33.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T12:46:33.191Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "PlatformService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-14T12:42:54.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T12:42:54.173Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "PlatformService\\SyncDataServices\\Http\\HttpCommanDataClient.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:34:51.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T12:34:51.878Z"
             },
             {
               "$type": "Document",
@@ -115,13 +110,12 @@
               "RelativeToolTip": "PlatformService\\SyncDataServices\\Http\\ICommanDataClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:32:52.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T12:32:52.314Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlatformService",
+              "Title": "PlatformService.csproj",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\PlatformService\\PlatformService\\PlatformService.csproj",
               "RelativeDocumentMoniker": "PlatformService\\PlatformService.csproj",
               "ToolTip": "C:\\ApplicationDevelopment\\WEBAPI_MicroServ\\PlatformService\\PlatformService\\PlatformService.csproj",
