@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\platformservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\platformservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\syncdataservices\\http\\httpcommandataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,19 +34,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Program.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeToolTip": "PlatformService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:46:33.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\appsettings.json",
+              "RelativeDocumentMoniker": "PlatformService\\appsettings.json",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\appsettings.json",
+              "RelativeToolTip": "PlatformService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T12:42:54.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\appsettings.Production.json",
               "RelativeDocumentMoniker": "PlatformService\\appsettings.Production.json",
               "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\appsettings.Production.json",
               "RelativeToolTip": "PlatformService\\appsettings.Production.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-14T15:36:17.22Z"
+              "WhenOpened": "2025-06-14T15:36:17.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,35 +85,12 @@
               "RelativeToolTip": "PlatformService\\Controllers\\PlatformsController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAYwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:49:16.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Program.cs",
-              "RelativeDocumentMoniker": "PlatformService\\Program.cs",
-              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Program.cs",
-              "RelativeToolTip": "PlatformService\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:46:33.191Z"
+              "WhenOpened": "2025-06-14T12:49:16.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\appsettings.json",
-              "RelativeDocumentMoniker": "PlatformService\\appsettings.json",
-              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\appsettings.json",
-              "RelativeToolTip": "PlatformService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-14T12:42:54.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "HttpCommanDataClient.cs",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\SyncDataServices\\Http\\HttpCommanDataClient.cs",
               "RelativeDocumentMoniker": "PlatformService\\SyncDataServices\\Http\\HttpCommanDataClient.cs",
@@ -98,11 +98,12 @@
               "RelativeToolTip": "PlatformService\\SyncDataServices\\Http\\HttpCommanDataClient.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:34:51.878Z"
+              "WhenOpened": "2025-06-14T12:34:51.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ICommanDataClient.cs",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\SyncDataServices\\Http\\ICommanDataClient.cs",
               "RelativeDocumentMoniker": "PlatformService\\SyncDataServices\\Http\\ICommanDataClient.cs",
@@ -110,19 +111,7 @@
               "RelativeToolTip": "PlatformService\\SyncDataServices\\Http\\ICommanDataClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:32:52.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlatformService.csproj",
-              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\PlatformService.csproj",
-              "RelativeDocumentMoniker": "PlatformService\\PlatformService.csproj",
-              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\PlatformService.csproj",
-              "RelativeToolTip": "PlatformService\\PlatformService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-14T12:31:15.781Z",
+              "WhenOpened": "2025-06-14T12:32:52.314Z",
               "EditorCaption": ""
             }
           ]
