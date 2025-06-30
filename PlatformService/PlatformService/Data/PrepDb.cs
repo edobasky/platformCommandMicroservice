@@ -20,7 +20,7 @@ namespace PlatformService.Data
                 Console.WriteLine("--> Attempting to apply migrations...");
                 try
                 {
-                    context.Database.Migrate();
+                    context.Database.EnsureCreated();
                 }
                 catch (Exception ex)
                 {

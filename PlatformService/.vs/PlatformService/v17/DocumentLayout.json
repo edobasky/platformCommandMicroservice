@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\syncdataservices\\http\\httpcommandataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\syncdataservices\\http\\httpcommandataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\syncdataservices\\http\\icommandataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\syncdataservices\\http\\icommandataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\syncdataservices\\http\\icommandataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\syncdataservices\\http\\icommandataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\syncdataservices\\http\\httpcommandataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\syncdataservices\\http\\httpcommandataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\platformservice\\platformservice\\migrations\\20250630055926_initailmigate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0694CB8-1D01-45CB-840F-1AAFCA77C1C8}|PlatformService\\PlatformService.csproj|solutionrelative:platformservice\\migrations\\20250630055926_initailmigate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,16 +42,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PlatformService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:50:21.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrepDb.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Data\\PrepDb.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Data\\PrepDb.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Data\\PrepDb.cs",
+              "RelativeToolTip": "PlatformService\\Data\\PrepDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:17:01.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\appsettings.Development.json",
               "RelativeDocumentMoniker": "PlatformService\\appsettings.Development.json",
-              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\appsettings.Development.json*",
-              "RelativeToolTip": "PlatformService\\appsettings.Development.json*",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\appsettings.Development.json",
+              "RelativeToolTip": "PlatformService\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-29T16:28:13.761Z",
@@ -51,33 +85,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PrepDb.cs",
-              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Data\\PrepDb.cs",
-              "RelativeDocumentMoniker": "PlatformService\\Data\\PrepDb.cs",
-              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Data\\PrepDb.cs*",
-              "RelativeToolTip": "PlatformService\\Data\\PrepDb.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T16:17:01.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Program.cs",
               "RelativeDocumentMoniker": "PlatformService\\Program.cs",
-              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Program.cs*",
-              "RelativeToolTip": "PlatformService\\Program.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Program.cs",
+              "RelativeToolTip": "PlatformService\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T12:46:33.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "20250630055926_initailMigate.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Migrations\\20250630055926_initailMigate.cs",
+              "RelativeDocumentMoniker": "PlatformService\\Migrations\\20250630055926_initailMigate.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\Migrations\\20250630055926_initailMigate.cs",
+              "RelativeToolTip": "PlatformService\\Migrations\\20250630055926_initailMigate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:59:27.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\appsettings.json",
               "RelativeDocumentMoniker": "PlatformService\\appsettings.json",
@@ -90,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HttpCommanDataClient.cs",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\SyncDataServices\\Http\\HttpCommanDataClient.cs",
               "RelativeDocumentMoniker": "PlatformService\\SyncDataServices\\Http\\HttpCommanDataClient.cs",
@@ -103,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ICommanDataClient.cs",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\PlatformService\\PlatformService\\SyncDataServices\\Http\\ICommanDataClient.cs",
               "RelativeDocumentMoniker": "PlatformService\\SyncDataServices\\Http\\ICommanDataClient.cs",

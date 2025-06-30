@@ -11,7 +11,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-if (env.IsProduction())
+if (env.IsDevelopment())
 {
     Console.WriteLine("----> Using Inmemory DB");
     builder.Services.AddDbContext<AppDbContext>(opt =>
@@ -27,8 +27,6 @@ builder.Services.AddHttpClient<ICommanDataClient,HttpCommanDataClient>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 Console.WriteLine($"Current Environment: {env.EnvironmentName}");
-Console.WriteLine($"CommandService: {builder.Configuration["CommandService"]}");
-Console.WriteLine($"---> CommandService Endpoint {builder.Configuration["CommandService"]}{builder.Configuration["CommandPlatformUrl"]}");
 
 
 var app = builder.Build();
@@ -46,6 +44,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-//PrepDb.PrepPopulation(app,env.IsProduction());
+PrepDb.PrepPopulation(app,env.IsProduction());
 
 app.Run();
