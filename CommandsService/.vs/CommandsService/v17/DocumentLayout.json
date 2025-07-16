@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\data\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\data\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\dtos\\commandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\dtos\\commandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\dtos\\commandreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\dtos\\commandreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\dtos\\platformreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\commandsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\commandsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\data\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\data\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\data\\icommandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\commandsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\commandsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|solutionrelative:commandsservice\\models\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2093F64-F71D-4773-8804-5CAAC5E9D911}|CommandsService\\CommandsService.csproj|c:\\applicationdevelopment\\microserviceproj\\platformcommandmicroservice\\commandsservice\\commandsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,32 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CommandRepo.cs",
-              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\CommandRepo.cs",
-              "RelativeDocumentMoniker": "CommandsService\\Data\\CommandRepo.cs",
-              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\CommandRepo.cs*",
-              "RelativeToolTip": "CommandsService\\Data\\CommandRepo.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAsAAAAAAAAAA==",
+              "Title": "CommandCreateDto.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Dtos\\CommandCreateDto.cs",
+              "RelativeDocumentMoniker": "CommandsService\\Dtos\\CommandCreateDto.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Dtos\\CommandCreateDto.cs",
+              "RelativeToolTip": "CommandsService\\Dtos\\CommandCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:37:34.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICommandRepo.cs",
-              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\ICommandRepo.cs",
-              "RelativeDocumentMoniker": "CommandsService\\Data\\ICommandRepo.cs",
-              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\ICommandRepo.cs*",
-              "RelativeToolTip": "CommandsService\\Data\\ICommandRepo.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:32:17.584Z",
+              "WhenOpened": "2025-06-30T22:06:06.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CommandReadDto.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Dtos\\CommandReadDto.cs",
+              "RelativeDocumentMoniker": "CommandsService\\Dtos\\CommandReadDto.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Dtos\\CommandReadDto.cs",
+              "RelativeToolTip": "CommandsService\\Dtos\\CommandReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:04:25.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Platform.cs",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Models\\Platform.cs",
               "RelativeDocumentMoniker": "CommandsService\\Models\\Platform.cs",
@@ -85,20 +97,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "CommandsService\\Data\\AppDBContext.cs",
-              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\AppDBContext.cs",
-              "RelativeToolTip": "CommandsService\\Data\\AppDBContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Models\\Command.cs",
+              "RelativeDocumentMoniker": "CommandsService\\Models\\Command.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Models\\Command.cs",
+              "RelativeToolTip": "CommandsService\\Models\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:18:50.975Z",
+              "WhenOpened": "2025-06-30T20:12:25.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "PlatformReadDto.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Dtos\\PlatformReadDto.cs",
+              "RelativeDocumentMoniker": "CommandsService\\Dtos\\PlatformReadDto.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Dtos\\PlatformReadDto.cs",
+              "RelativeToolTip": "CommandsService\\Dtos\\PlatformReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:02:36.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommandRepo.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\CommandRepo.cs",
+              "RelativeDocumentMoniker": "CommandsService\\Data\\CommandRepo.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\CommandRepo.cs",
+              "RelativeToolTip": "CommandsService\\Data\\CommandRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:37:34.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CommandsService",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\CommandsService.csproj",
               "RelativeDocumentMoniker": "CommandsService\\CommandsService.csproj",
@@ -111,20 +149,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Command.cs",
-              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Models\\Command.cs",
-              "RelativeDocumentMoniker": "CommandsService\\Models\\Command.cs",
-              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Models\\Command.cs",
-              "RelativeToolTip": "CommandsService\\Models\\Command.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ICommandRepo.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\ICommandRepo.cs",
+              "RelativeDocumentMoniker": "CommandsService\\Data\\ICommandRepo.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\ICommandRepo.cs",
+              "RelativeToolTip": "CommandsService\\Data\\ICommandRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T20:12:25.475Z",
+              "WhenOpened": "2025-06-30T20:32:17.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "CommandsService\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "CommandsService\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:18:50.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Program.cs",
               "RelativeDocumentMoniker": "CommandsService\\Program.cs",
@@ -137,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "PlatformsController.cs",
               "DocumentMoniker": "C:\\ApplicationDevelopment\\MicroserviceProj\\platformCommandMicroservice\\CommandsService\\CommandsService\\Controllers\\PlatformsController.cs",
               "RelativeDocumentMoniker": "CommandsService\\Controllers\\PlatformsController.cs",
